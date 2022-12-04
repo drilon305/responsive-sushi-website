@@ -346,7 +346,7 @@ img {
 }
 
 .button:hover i {
-  transform: translateX(.25rem);
+  transform:  translateX(.25rem);
 }
 
 /*=============== ABOUT ===============*/
