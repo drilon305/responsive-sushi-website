@@ -1,12 +1,12 @@
 <a href="https://sushi-responsive-restaurant.netlify.app/">Live Site</a>
 
 
-Responsive Sushi Website
-Responsive Sushi Restaurant Website Design Using HTML CSS & JavaScript
-Includes a dark and light mode.
-Smooth scrolling in each section.
-Contains animations when scrolling.
-Developed first with the Mobile First methodology, then for desktop.
+Responsive Sushi Website <br>
+Responsive Sushi Restaurant Website Design Using HTML CSS & JavaScript <br>
+Includes a dark and light mode.  <br>
+Smooth scrolling in each section.  <br>
+Contains animations when scrolling.  <br>
+Developed first with the Mobile First methodology, then for desktop. <br> 
 Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 
